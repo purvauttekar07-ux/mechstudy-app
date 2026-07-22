@@ -1,3 +1,4 @@
 # mechstudy-app
-Interactive study app for Engineering Mechanics — organizes practice questions across 5 units with worked solutions
+Interactive study app for Engineering Mechanics — organizes practice questions across 5 units with worked solutions.
+<br>
 This is very useful for students.
